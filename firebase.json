@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "cookieclicker",
+    "target": "game_cdn",
     "public": "public",
     "ignore": [
       "firebase.json",
