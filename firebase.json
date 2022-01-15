@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "cookieclicker",
     "public": "public",
     "ignore": [
       "firebase.json",
