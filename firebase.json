@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "game_cdn",
+    "target": "hotcorn-gamecdn",
     "public": "public",
     "ignore": [
       "firebase.json",
